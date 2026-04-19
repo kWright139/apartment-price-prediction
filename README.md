@@ -31,3 +31,8 @@ Download the dataset and place it in your working directory before running the n
 - Member A: Problem Statement & Database Setup
 - Member B: Data Cleaning & Exploratory Data Analysis
 - Member C: Modeling & Evaluation
+
+## Key Insights
+- Most rental prices fall between $800–$2000
+- Square footage has a moderate positive relationship with price
+- Location significantly impacts rental pricing
